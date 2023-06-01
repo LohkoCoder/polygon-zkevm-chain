@@ -1,0 +1,1 @@
+../zkevm-node approve -network custom --custom-network-file ../../config/test.genesis.config.json --key-store-path ../sequencer.keystore --pw testonly --am 115792089237316195423570985008687907853269984665640564039457584007913129639935 -y --cfg ../../config/test.node.config.toml 

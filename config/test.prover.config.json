@@ -56,7 +56,7 @@
 
     "aggregatorServerPort": 50081,
     "aggregatorClientPort": 50081,
-    "aggregatorClientHost": "10.9.91.1",
+    "aggregatorClientHost": "10.50.46.174",
 
     "mapConstPolsFile": false,
     "mapConstantsTreeFile": false,
